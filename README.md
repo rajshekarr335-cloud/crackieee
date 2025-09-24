@@ -51,3 +51,7 @@ The code is modular and commented. You can add new co-pilot behaviors, improve t
 
 ## License
 MIT
+=======
+# crackieee
+Do you want to crack any of the assessments in your interview time just use crackieee it will help you that you will be the master!!!
+>>>>>>> 8d9b04b552addb82b0d73efbd6ebf279591230fc
